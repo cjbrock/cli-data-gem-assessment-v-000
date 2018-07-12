@@ -1,4 +1,8 @@
 #!/usr/bin/env ruby
 
+<<<<<<< HEAD
 require_relative '../lib/environment'
+=======
+require './lib/environment.rb'
+>>>>>>> 8b7f79c9789be8641ab5117f7d9497c2a935c349
 ShopTopsCliApp::CLI.new.call
